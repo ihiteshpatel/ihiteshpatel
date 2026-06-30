@@ -3,7 +3,8 @@ Hi there, I'm Hitesh Patel 👋
 🚀 WordPress Developer
 
 ✨ Quote
-"Code is not just about solving problems—it's about creating solutions that make a difference."
+
+**"Code is not just about solving problems—it's about creating solutions that make a difference."**
 
 <!--
 **ihiteshpatel/ihiteshpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
