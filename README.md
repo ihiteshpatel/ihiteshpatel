@@ -1,6 +1,6 @@
 Hi there, I'm **Hitesh Patel** 👋
 
-🚀 WordPress Developer
+🚀 **WordPress Developer**
 
 ✨ Quote
 
