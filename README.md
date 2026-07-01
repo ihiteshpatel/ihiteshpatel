@@ -1,4 +1,4 @@
-Hi there, I'm Hitesh Patel 👋
+Hi there, I'm **Hitesh Patel** 👋
 
 🚀 WordPress Developer
 
